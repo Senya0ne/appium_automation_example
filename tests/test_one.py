@@ -1,2 +1,2 @@
 def test_one(driver):
-    assert 1 == 1
+    print("First Test Run")
